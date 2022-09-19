@@ -1,0 +1,77 @@
+.container{
+    display: flex;
+    margin-top: 32px;
+    justify-content: center;
+    align-items: center;
+}
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bg{
+    position: absolute;
+    z-index: 999;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 2%;
+    height: 50px;
+    width: 600px;
+    opacity: 50%;
+}
+.heading{
+    align-items: center;
+    justify-content: center;
+  
+}
+
+.col-sm-8{
+    height: 500px;
+    width: 300px;
+}
+.input-group{
+ width: 200px;
+}
+.col-sm-4{
+    background-image: linear-gradient(to right, rgb(255, 253, 253) , rgb(127, 225, 252));
+    height: 230px;
+    border-radius: 10px;
+    box-shadow: 20px 20px 20px 20px (rgb(1, 6, 6));
+}
+.card{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    padding: 10px;
+    border: px solid black;
+    height: 240px;
+    width: 407px;
+    display: flex;
+    gap: 40px ;
+}
+.H{
+    margin-top: ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imageupload{
+    height: 100px;
+    width: 100px;
+    border: px solid black;
+}
+#uname{
+    font-family: 'Franklin Gothic Light', 'Arial Narrow', Arial, sans-serif ;
+    font-size: large;
+   font: bold;
+}
+#ucollage{
+    font-family: 'Franklin Gothic Light', 'Arial Narrow', Arial, sans-serif ;
+    font-size: large;
+    font: bold;
+}
+
+#ulocation{
+    font-family: 'Franklin Gothic Light', 'Arial Narrow', Arial, sans-serif ;
+    font-size: large;
+    font: bold;
+}
